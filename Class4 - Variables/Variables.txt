@@ -1,0 +1,11 @@
+JAVA VARIABLES :
+----------------
+
+Instance Variable -1. If Variable value is varied from object to object
+                   2. Separate copy will create for object to object
+                   3. How to access? - Using Instance / Object
+
+Static Variable -1. If Variable value is not varied from object to object
+                 2. Only one copy will create at class level & Shared every object, using Instance / Object & using className and using Directly in Static Context
+
+Local Variable -1. Local Variable scope is with in the method only.
