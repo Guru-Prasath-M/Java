@@ -12,3 +12,5 @@ Static Variable -1. If Variable value is not varied from object to object
                  3. Where to use - Inside a Class and Outside Methods using STATIC KEYWORD
 
 Local Variable -1. Local Variable scope is with in the method only.
+                2. There is no Default value for Local Variable.
+                3. Before using local variable required Initialization
