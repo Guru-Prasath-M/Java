@@ -1,0 +1,9 @@
+Arithmatic Operator --> + , - , * , / , %
+Logical Operator --> && , ||
+Relational Operator --> < , > , <= , >=
+Equality Operator --> == 
+Assignment Operator --> = , += , -= , *= , /= , %=
+Ince / Decr Operator --> ++ , --
+Terinary Operator --> ----- ? ------ :
+Bitwise Operator
+
