@@ -1,0 +1,12 @@
+ARRAY LENGTH :
+==============
+1. It is a Property
+2. Rerurn Array Size
+3. Applicable only in Array.
+
+
+STRING LENGTH() :
+=================
+1. It is a Method
+2. Rerurn no of Char
+3. Applicable in only String Object.
