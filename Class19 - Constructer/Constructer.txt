@@ -1,0 +1,2 @@
+1. Constructer is a SPECIAL METHOD to initilize OBJECT VALUE
+2. Constructer method will excute only once automatically at a time of OBJECT CREATION.
