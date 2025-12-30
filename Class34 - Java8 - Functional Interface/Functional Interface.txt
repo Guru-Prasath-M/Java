@@ -1,0 +1,2 @@
+FUNCTIONAL INTERFACE - Any Interface that contain only one abstract method then that is functional Interface.
+To restrict , by using @FunctionalInterface -> if we use then we can't add one more abstract method.
