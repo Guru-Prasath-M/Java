@@ -1,0 +1,4 @@
+Functional Interface -- Any interface that contains single abstract method
+
+Lambda Expression -- NO access modifier , NO DATATYPE , NO METHOD , NO RETURN VALUE
+                     With thr help of Functional Interface we can excute Lambda Expression
