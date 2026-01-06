@@ -1,0 +1,4 @@
+1. Function   -- apply()
+2. Predicate  -- test() -- we'll get boolean value as a output
+3. Supplier   -- get() no input only output
+4. Connsumer  -- accept() only input no output
